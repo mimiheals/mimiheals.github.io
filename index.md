@@ -1,4 +1,7 @@
-# My Blog
+---
+layout: home
+title: My Blog
+---
 
 Hello, this is my first website.
 
